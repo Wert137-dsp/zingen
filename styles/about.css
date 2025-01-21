@@ -1,0 +1,15 @@
+#about {
+
+    background-color: var(--surface-color);
+
+
+    & div:nth-child(1) {
+
+        margin-block: auto;
+    }
+
+    & .even-columns {
+
+        gap: 2rem;
+    }
+}
